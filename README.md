@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield][[linkedin-url](https://www.linkedin.com/in/pushpendra-shrivastav/)]
+[![LinkedIn][linkedin-shield]]['https://www.linkedin.com/in/pushpendra-shrivastav/']
 
 # Getting Started with React Live News App
 
