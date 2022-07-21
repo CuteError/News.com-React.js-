@@ -13,7 +13,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ul>
+  <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -27,24 +27,25 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-  </ul>
+    <li><a href="#credit">Credit</a></li>
+  </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This is an application which is used to fetch live news form an API. You can also browse through multiple categories and read lastest news.
+I've also added ```Infinite Scroll``` feature so that you never run out of new contents.
 
 Here's why:
 * If you don't have enough time & don't want to read newspaper.
 * Continuously working & developing on a system
-* You can just run the ```sh npm start ``` command & this app will serve you the latest news from this country. :smile:
+* You can just run the ``` npm start ``` command & this app will serve you the latest news from this country. :smile:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -53,7 +54,8 @@ I've built this application using these frameworks/libraries.
 
 [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
   
-Bootstrap is used for the designing the components & the layout of the application. React is used to add logics to the components & for the DOM manipulation.
+Bootstrap is used for the designing the components & the layout of the application.
+React is used to add logics to the components & for the DOM manipulation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -96,9 +98,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+You can use this application as you daily dose of news. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,6 +110,14 @@ Pushpendra Shrivastav - https://pushpendra-portfolio.netlify.app/
 
 Project Link: https://github.com/CuteError/News.com-React.js-.git
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+  
+  
+<!-- Credits  -->
+  
+## Credit
+For this beautiful ReadMe template the credit goes to : Othneil Drew - https://github.com/othneildrew/Best-README-Template
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
