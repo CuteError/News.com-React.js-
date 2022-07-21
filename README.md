@@ -6,17 +6,14 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<div align="left">
 
   <h3 align="center">News.Com | Your Daily Dose of News</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <ul>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -31,7 +28,7 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-  </ol>
+  </ul>
 </details>
 
 
@@ -39,16 +36,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an application which is used to fetch live news form an API 
+This is an application which is used to fetch live news form an API. You can also browse through multiple categories and read lastest news.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+* If you don't have enough time & don't want to read newspaper.
+* Continuously working & developing on a system
+* You can just run the ```sh npm start ``` command & this app will serve you the latest news from this country. :smile:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -56,10 +49,11 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-I've bulid this application using these frameworks/libraries. Where Bootstrap is used for the designing the components and react is used to add logics to the components.
+I've built this application using these frameworks/libraries. 
 
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+  
+Bootstrap is used for the designing the components & the layout of the application. React is used to add logics to the components & for the DOM manipulation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,13 +85,12 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `.env.local`
+4. Crate a file `.env.local` & Enter your API in 
    ```js
    REACT_APP_NEWS_API="YOUR API KEY"
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -113,30 +106,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Pushpendra Shrivastav - [@your_twitter](https://twitter.com/your_username) - shrivastavsumit15@gmail.com
+Pushpendra Shrivastav - https://pushpendra-portfolio.netlify.app/
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: https://github.com/CuteError/News.com-React.js-.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
