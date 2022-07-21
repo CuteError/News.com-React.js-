@@ -5,10 +5,9 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="left">
 
-  <h3 align="center">News.Com | Your Daily Dose of News</h3>
+  <h2 align="center">News.Com | Your Daily Dose of News</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
