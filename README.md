@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an application which is used to fetch live news form an API. You can also browse through multiple categories and read lastest news.
+This is an application which is used to fetch live news form an API. You can also browse through multiple categories and read latest news.
 I've also added ```Infinite Scroll``` feature so that you never run out of new contents.
 
 Here's why:
