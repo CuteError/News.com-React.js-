@@ -36,8 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an application which is used to fetch live news form an API. You can also browse through multiple categories and read latest news.
-I've also added ```Infinite Scroll``` feature so that you never run out of new contents.
+This is an application that is used to fetch live news from an API. You can also browse through multiple categories and read the latest news with the ```Infinite Scroll``` feature so that you never run out of new content.
 
 Here's why:
 * If you don't have enough time & don't want to read newspaper.
@@ -53,8 +52,7 @@ I've built this application using these frameworks/libraries.
 
 [![React][React.js]][React-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url]
   
-Bootstrap is used for the designing the components & the layout of the application.
-React is used to add logics to the components & for the DOM manipulation.
+I've built this application using Bootstrap for the designing & the layout of the application and React.js to add logic to the components & for the DOM manipulation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -97,7 +95,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can use this application as you daily dose of news. 
+You can use this application as your daily dose of news in your local system.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
